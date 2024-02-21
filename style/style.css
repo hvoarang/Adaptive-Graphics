@@ -203,7 +203,7 @@ a {
   background-size: 320px 240px;
 }
 
-/* 2x screens, retina, 640x480 image */
+/* 2x  screens, retina 640x480 image */
 @media (min-resolution: 192dpi) {
   .box {
     background-image: url("https://picsum.photos/id/237/640/480");
