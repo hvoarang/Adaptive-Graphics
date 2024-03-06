@@ -189,7 +189,7 @@ a {
 
 @media screen and (min-width: 900px) {
   .bg {
-    color: #faf;
+    color: teal;
     background-color: #808080;
   }
 }
