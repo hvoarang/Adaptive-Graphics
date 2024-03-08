@@ -5,3 +5,6 @@ rangeInput.addEventListener(
   e => (output.textContent = e.target.value)
 );
 
+let x === [];
+let y === [!x];
+console.log(x + y);
