@@ -13,3 +13,7 @@ let x = +'5';
 let y = -'5';
 let z = +'5';
 console.log(x + y * z);
+
+let a = 0;
+let b = [];
+console.log(a == b);
