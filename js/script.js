@@ -5,3 +5,5 @@ rangeInput.addEventListener(
   e => (output.textContent = e.target.value)
 );
 let a = 1;
+let a = 1;
+let a = 1;
