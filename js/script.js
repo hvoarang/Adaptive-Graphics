@@ -4,3 +4,4 @@ rangeInput.addEventListener(
   'input',
   e => (output.textContent = e.target.value)
 );
+let a = 1;
