@@ -6,8 +6,4 @@ rangeInput.addEventListener(
 );
 
 let a = 12;
-let a = 12;
-let a = 12;
-let a = 12;
-let a = 12;
-let a = 12;
+console.log(a + a);
